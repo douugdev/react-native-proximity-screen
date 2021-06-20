@@ -1,4 +1,4 @@
-# react-native-apk-update
+# react-native-proximity-screen
 
 A JS/TS Library to programatically turn the screen off using the proximity sensor.
 

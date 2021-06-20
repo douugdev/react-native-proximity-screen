@@ -1,5 +1,5 @@
 {
-  "name": "react-native-proximity-dim-screen",
+  "name": "react-native-proximity-screen",
   "version": "0.1.1",
   "description": "A lib to turn off screen with proximity sensor.",
   "main": "lib/commonjs/index.js",
